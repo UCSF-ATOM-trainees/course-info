@@ -20,47 +20,18 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
-  - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Weekly Meeting
+        start: 2:30 PM
+        end: 4:00 PM
+        location: [zoom](https://ucsf.zoom.us/j/98476501465?pwd=2XoMh4bSKYQ0tYKwsWBsnnMZgwvYaz.1)
+  - name: Wednesday
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Monthly Progress Meeting
+        start: 10:30 AM
+        end: 11:30 AM
+        location: [zoom](https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1)
 ---
