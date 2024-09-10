@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   AMPL Github:
-    - 'https://kevinl.info'
+    - 'https://github.com/ATOMScience-org/AMPL'
   Classroom:
     - 'https://classroom.github.com/classrooms/181143639-ucsf-atom-trainees-2024-2025'
 footer_content:
