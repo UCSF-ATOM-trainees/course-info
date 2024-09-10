@@ -25,7 +25,7 @@ schedule:
       - name: Weekly Meeting
         start: 2:30 PM
         end: 4:00 PM
-        location: [zoom](https://ucsf.zoom.us/j/98476501465?pwd=2XoMh4bSKYQ0tYKwsWBsnnMZgwvYaz.1)
+        location: https://ucsf.zoom.us/j/98476501465?pwd=2XoMh4bSKYQ0tYKwsWBsnnMZgwvYaz.1
   - name: Wednesday
   - name: Thursday
   - name: Friday
@@ -33,5 +33,5 @@ schedule:
       - name: Monthly Progress Meeting
         start: 10:30 AM
         end: 11:30 AM
-        location: [zoom](https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1)
+        location: https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1
 ---
