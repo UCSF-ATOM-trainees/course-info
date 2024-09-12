@@ -18,6 +18,8 @@ description: >-
 
 ## Resources
 
+[GitHub Student Developer Pack (including GitHub CoPilot)](https://education.github.com/discount_requests/application?type=student)
+
 [Free PyCharm Pro](https://www.jetbrains.com/community/education/#students/)
 
 [IBM Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science)
