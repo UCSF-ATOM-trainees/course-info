@@ -28,6 +28,12 @@ description: >-
 
 [Google ML Course](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning)
 
+Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
+
+An Introduction to Statistical Learning with Applications in R by James, Witten Hastie, and Tibshirani, Springer, https://www.springer.com/us/book/9781461471370
+
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie, Tibshirani, and Friedman, 2nd. Ed. Springer, available for free at http://statweb.stanford.edu/~tibs/ElemStatLearn/
+
 ## Assignments
 
 See Calendar Tab
