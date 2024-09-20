@@ -84,12 +84,12 @@
     width: 100%;
 
     .name {
-      @extend .fs-3, .fw-700;
+      @extend .fs-2, .fw-700;
     }
 
     .time,
     .location {
-      @extend .fs-2;
+      @extend .fs-1;
     }
 
     &.lecture {
