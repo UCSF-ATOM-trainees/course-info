@@ -26,7 +26,11 @@ description: >-
 
 [Google Drive](https://drive.google.com/drive/folders/1VXv8172MabqtoQaM6Czx-c2BPvda8wPM?usp=drive_link)
 
-[Google ML Course](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning)
+[Google ML Course - Trees](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning)
+
+[IBM ML course - NNs](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
+
+[Website: Gaussian Processes](https://gaussianprocess.org/)
 
 Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
 
