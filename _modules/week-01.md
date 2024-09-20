@@ -3,11 +3,11 @@ title: Nuts & Bolts of ML for Chemistry
 ---
 
 Sep 3
-: Kickoff meeting & environment setup 
-  : [AMPL Environment info](https://github.com/ATOMScience-org/AMPL?tab=readme-ov-file#install)
+: Kickoff meeting & environment setup
+: [AMPL Environment info](https://github.com/ATOMScience-org/AMPL?tab=readme-ov-file#install)
 
 Sep 10
-: QSAR & ML for Cheminformatics; RF
+: QSAR & ML for Cheminformatics; Tree-based models
 : **slides**{: .label .label-purple }[QSAR and ML for Cheminformatics](https://docs.google.com/presentation/d/1zq2S0Odw93VM0F0Y4jvCVFv2jhZ3tRjg3mLfx5mWLuY/edit?usp=drive_link)
 : **coursera**{: .label .label-purple }[Nuts & Bolts Module 4](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/module/4)
 
