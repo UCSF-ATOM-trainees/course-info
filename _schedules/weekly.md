@@ -22,10 +22,10 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: ArdellLabMeeting
+      - name: Ardell Lab Mtg
         start: 11:00 AM
         end: 12:30 PM
-      - name: WeeklyMeeting
+      - name: Weekly Mtg
         start: 2:30 PM
         end: 4:00 PM
         location: https://ucsf.zoom.us/j/98476501465?pwd=2XoMh4bSKYQ0tYKwsWBsnnMZgwvYaz.1
@@ -33,7 +33,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: MonthlyMeeting
+      - name: Monthly Mtg
         start: 10:30 AM
         end: 11:30 AM
         location: https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1
