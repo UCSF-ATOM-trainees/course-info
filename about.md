@@ -40,4 +40,4 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction by 
 
 ## Assignments
 
-See Calendar Tab
+See Course Content Tab
