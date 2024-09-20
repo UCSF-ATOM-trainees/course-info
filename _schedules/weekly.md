@@ -33,7 +33,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: *Monthly* Progress Meeting
+      - name: Monthly Progress Meeting
         start: 10:30 AM
         end: 11:30 AM
         location: https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1
