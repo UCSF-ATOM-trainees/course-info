@@ -22,7 +22,7 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - Ardell Lab Meeting
+      - name: Ardell Lab Meeting
         start: 11:00 AM
         end: 12:30 PM
       - name: Weekly Meeting
