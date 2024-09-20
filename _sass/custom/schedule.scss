@@ -92,15 +92,15 @@
       @extend .fs-1;
     }
 
-    &.lecture {
+    &.monthly-mtg {
       background-color: $grey-dk-000;
     }
 
-    &.section {
+    &.ardell-lab-mtg {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.weekly-mtg {
       background-color: $blue-000;
     }
   }
