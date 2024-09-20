@@ -22,6 +22,9 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
+      - Ardell Lab Meeting
+        start: 11:00 AM
+        end: 12:30 PM
       - name: Weekly Meeting
         start: 2:30 PM
         end: 4:00 PM
@@ -30,7 +33,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Monthly Progress Meeting
+      - name: *Monthly* Progress Meeting
         start: 10:30 AM
         end: 11:30 AM
         location: https://ucsf.zoom.us/j/97676469801?pwd=TphibtUQlQwU9aQUpvVMMV9P5trifa.1
