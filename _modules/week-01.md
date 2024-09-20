@@ -23,7 +23,7 @@ Sep 24
 : EDA check-in; GP and NN
   : **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
   : **coursera**{: .label .label-purple }[Intro to Deep Learning & NNs](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
-  :**article**{: .label .label-purple } [Intro to Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+  : **article**{: .label .label-purple } [Intro to Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 : **ACS abstract draft due**{: .label .label-red }
 
 Sep 30 (Monday!)
