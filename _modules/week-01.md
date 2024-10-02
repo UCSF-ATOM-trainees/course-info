@@ -30,4 +30,5 @@ Sep 30 (Monday!)
 : **ACS abstract due**{: .label .label-red }
 
 Oct 1
-: EDA Demo #2: Compound and Measurement EDA
+: EDA Demo #2: Updated Assay Descriptions
+: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
