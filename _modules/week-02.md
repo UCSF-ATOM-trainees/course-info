@@ -10,13 +10,13 @@ Oct 8
 : Discuss ML algorithms, any questions?
 
 ~~Oct 11 (Friday)~~ 
-**Cancelled**
+: **Cancelled**
 : Meet w/ Dr. Ardell
 : **present results**{: .label .label-red } Present Assay EDA results (Experimental_Platform.md, notebooks w/ graphs)
 : Discuss ML algorithms, any questions?
 
 ~~Oct 15~~ 
-**Cancelled - AKP sick** 
+: **Cancelled - AKP sick** 
 : Assay data EDA
 : **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
 : Intro to AMPL
