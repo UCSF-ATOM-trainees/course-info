@@ -1,34 +1,31 @@
 ---
-title: Nuts & Bolts of ML for Chemistry
+title: Using LLNL systems for building real models
 ---
+Nov 5
+: **Election day!**{: .label .label-red }
+: Discuss AMPL tutorials, any questions?
+: **github**{: .label .label-blue }[AMPL tutorial sequence](https://github.com/UCSF-ATOM-trainees/NEK-AMPL-tutorials-sequence/tree/main)
+: Familiarizing ourselves with LC systems
+: **article**{: .label .label-purple }[LC Running Jobs](https://hpc.llnl.gov/banks-jobs/running-jobs)
+: **tutorial**{: .label .label-purple }[SLURM tutorial](https://hpc.llnl.gov/banks-jobs/running-jobs/slurm)
+: **tutorial**{: .label .label-purple }[FLUX tutorial](https://hpc-tutorials.llnl.gov/flux/)
 
-Sep 3
-: Kickoff meeting & environment setup
-: [AMPL Environment info](https://github.com/ATOMScience-org/AMPL?tab=readme-ov-file#install)
+~~Nov 8 (Friday)~~ Cancelled - Dr. Ardell sick
+: ~~Meet w/ Dr. Ardell~~
+: **present results**{: .label .label-red } 
+: Present Assay EDA results (Experimental_Platform.md, notebooks w/ graphs)
+: Present initial AMPL modeling results (tutorial progress, best model metrics)
 
-Sep 10
-: QSAR & ML for Cheminformatics; Tree-based models
-: **slides**{: .label .label-purple }[QSAR and ML for Cheminformatics](https://docs.google.com/presentation/d/1zq2S0Odw93VM0F0Y4jvCVFv2jhZ3tRjg3mLfx5mWLuY/edit?usp=drive_link)
-: **coursera**{: .label .label-purple }[Nuts & Bolts Module 4](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/module/4)
+Nov 11
+: AMPL model building on laptop
 
-Sep 13
-: Meet w/ Dr. Ardell
+Nov 22 (rescheduled) 
+: AMPL model building results
+: Featurization discussion
+: **slides**{: .label .label-purple } [Computational representations of chemistry data](https://docs.google.com/presentation/d/1tJqxuxeTiN4pGAjAwBfP72xulrgnXimSM5lcozsoD3g/edit?usp=sharing)
+: **references**{: .label .label-purple }[Foundational model references](https://docs.google.com/document/d/1DHqJLO5DJeU5NDCC5rIBBBGIPC6Oc-idcqEJyTJyc4E/edit?usp=sharing)
 
-Sep 17
-: EDA Demo #1: Assay Descriptions
-: **github**{: .label .label-blue }[Brief Git & GitHub tutorial](https://github.com/UCSF-ATOM-trainees/github-starter-course) 
-: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
-
-Sep 24
-: EDA check-in; GP and NN
-: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
-: **coursera**{: .label .label-purple }[Intro to Deep Learning & NNs](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
-: **article**{: .label .label-purple } [Intro to Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
-: **ACS abstract draft due**{: .label .label-red }
-
-Sep 30 (Monday!)
-: **ACS abstract due**{: .label .label-red }
-
-Oct 1
-: EDA Demo #2: Updated Assay Descriptions
-: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
+Nov 25
+: Using ChemBERTa (laptop) and MOE (LC system) for featurization
+: **github**{: .label .label-blue }[ChemBERTa features](https://github.com/UCSF-ATOM-trainees/NEK-AMPL-tutorials-sequence/blob/main/datasets/chemberta_features.ipynb)
+: **Thanksgiving weekend**{: .label .label-red}

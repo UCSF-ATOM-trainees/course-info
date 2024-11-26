@@ -1,27 +1,34 @@
 ---
-title: Using LLNL systems for building real models
+title: Nuts & Bolts of ML for Chemistry
 ---
-Nov 5
-: **Election day!**{: .label .label-red }
-: Discuss AMPL tutorials, any questions?
-: **github**{: .label .label-blue }[AMPL tutorial sequence](https://github.com/UCSF-ATOM-trainees/NEK-AMPL-tutorials-sequence/tree/main)
-: Familiarizing ourselves with LC systems
-: **article**{: .label .label-purple }[LC Running Jobs](https://hpc.llnl.gov/banks-jobs/running-jobs)
-: **tutorial**{: .label .label-purple }[SLURM tutorial](https://hpc.llnl.gov/banks-jobs/running-jobs/slurm)
-: **tutorial**{: .label .label-purple }[FLUX tutorial](https://hpc-tutorials.llnl.gov/flux/)
 
-Nov 8 (Friday)
+Sep 3
+: Kickoff meeting & environment setup
+: [AMPL Environment info](https://github.com/ATOMScience-org/AMPL?tab=readme-ov-file#install)
+
+Sep 10
+: QSAR & ML for Cheminformatics; Tree-based models
+: **slides**{: .label .label-purple }[QSAR and ML for Cheminformatics](https://docs.google.com/presentation/d/1zq2S0Odw93VM0F0Y4jvCVFv2jhZ3tRjg3mLfx5mWLuY/edit?usp=drive_link)
+: **coursera**{: .label .label-purple }[Nuts & Bolts Module 4](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/module/4)
+
+Sep 13
 : Meet w/ Dr. Ardell
-: **present results**{: .label .label-red } 
-: Present Assay EDA results (Experimental_Platform.md, notebooks w/ graphs)
-: Present initial AMPL modeling results (tutorial progress, best model metrics)
 
-Nov 11
-: Data splitting on FLUX
+Sep 17
+: EDA Demo #1: Assay Descriptions
+: **github**{: .label .label-blue }[Brief Git & GitHub tutorial](https://github.com/UCSF-ATOM-trainees/github-starter-course) 
+: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
 
-Nov 18 
-: Hyperparameter optimization on FLUX
+Sep 24
+: EDA check-in; GP and NN
+: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
+: **coursera**{: .label .label-purple }[Intro to Deep Learning & NNs](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
+: **article**{: .label .label-purple } [Intro to Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+: **ACS abstract draft due**{: .label .label-red }
 
-Nov 25
-: Compare model performance and run predictions
-: **Thanksgiving weekend**{: .label .label-red}
+Sep 30 (Monday!)
+: **ACS abstract due**{: .label .label-red }
+
+Oct 1
+: EDA Demo #2: Updated Assay Descriptions
+: **github**{: .label .label-blue }[Exploratory Data Analysis: Assay Descriptions](https://github.com/UCSF-ATOM-trainees/NEK-assay-description-eda/tree/main)
